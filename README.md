@@ -46,7 +46,7 @@ Any kind of contributions are welcome.
 ```Groovy
 MIT License
 
-Copyright (c) 2017 Rishabh Shukla
+Copyright (c) 2017 Srijani Chakroborty
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
